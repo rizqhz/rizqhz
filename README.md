@@ -3,9 +3,9 @@
 <div align="center">
 
 ```ocaml
-EAT / SLEEP / CODE / PRAY / REPEAT
+NEVER SKIP / IGNORE / AVOID README
 ```
-<img src=".github/lunar.jpg" alt="lunar" width="100%">
+<img src="https://github.com/rizghz/rizghz/blob/main/.github/banner.jpg" alt="lunar" width="100%">
 
 </div>
 
