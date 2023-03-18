@@ -3,7 +3,7 @@
 <div align="center">
 
 ```ocaml
-README
+EAT / SLEEP / CODE / PRAY
 ```
 
 <img src="https://github.com/rizghz/rizghz/blob/main/.github/banner.jpg" alt="lunar">
