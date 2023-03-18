@@ -6,7 +6,7 @@
 EAT / SLEEP / CODE / PRAY
 ```
 
-<img src="https://github.com/rizghz/rizghz/blob/main/.github/banner.jpg" alt="lunar" width="99.9%">
+<img src="https://github.com/rizghz/rizghz/blob/main/.github/banner.jpg" alt="lunar" width="95%">
 
 </div>
 
