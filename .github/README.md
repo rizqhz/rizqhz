@@ -22,6 +22,8 @@ EAT / SLEEP / CODE / PRAY
 </div>
 
 <br>
+<hr>
+<br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizghz">
