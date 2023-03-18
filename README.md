@@ -2,9 +2,8 @@
 
 <div align="center">
 
-```ocaml
-NEVER SKIP / IGNORE / AVOID README
-```
+```ocaml README```
+
 <img src="https://github.com/rizghz/rizghz/blob/main/.github/banner.jpg" alt="lunar" width="100%">
 
 </div>
