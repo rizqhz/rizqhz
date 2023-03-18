@@ -11,7 +11,6 @@ EAT / SLEEP / CODE / PRAY
 </div>
 <br>
 <div align="center">
-<img src="https://img.shields.io/badge/-hackerrank-5c666d?style=for-the-badge&logo=HackerRank&logoColor=white">
 <img src="https://img.shields.io/badge/-linux-5c666d?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/-C%2B%2B-5c666d?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/-go-5c666d?style=for-the-badge&logo=go&logoColor=white">
