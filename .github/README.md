@@ -21,12 +21,12 @@ EAT / SLEEP / CODE / PRAY
 <img src="https://img.shields.io/badge/-lua-5c666d?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 
-<br>
-<hr>
-<br>
+<!-- <br> -->
+<!-- <hr> -->
+<!-- <br> -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizghz">
-</div>
+</div> -->
 
 </div>
