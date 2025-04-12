@@ -10,9 +10,10 @@
 	<img
 		alt="GitHub Profile Repository Banner"
 		src="https://raw.githubusercontent.com/rizqhz/rizqhz/refs/heads/main/assets/header-light.png"
-		style="border-radius: 10px"
 	/>
 </picture>
+
+<p></p>
 
 <!--START_SECTION:waka-->
 
