@@ -34,8 +34,8 @@ _I am a Computer Engineering student with a strong interest in studying and unde
 </h1>
 
 <div align="center">
-  <samp>• • •</samp>
-</div>
+
+<samp>• • •</samp>
 
 ```stl
 solid exported
@@ -126,11 +126,11 @@ solid exported
 endsolid exported
 ```
 
-<div align="center">
-  <samp>• • •</samp>
 </div>
 
-<div align="left">
+<div align="center">
+
+<samp>• • •</samp>
 
 <img alt="" align="left" width="120" src="https://raw.githubusercontent.com/rizqhz/rizqhz/refs/heads/main/assets/waifu.gif"/>
 
