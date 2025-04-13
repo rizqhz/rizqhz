@@ -126,12 +126,13 @@ solid exported
 endsolid exported
 ```
 
-
 <div align="center">
+  <samp>• • •</samp>
+</div>
 
-<samp>• • •</samp>
+<div align="left">
 
-<img alt="" align="right" width="120" src="https://raw.githubusercontent.com/rizqhz/rizqhz/refs/heads/main/assets/waifu.gif"/>
+<img alt="" align="left" width="120" src="https://raw.githubusercontent.com/rizqhz/rizqhz/refs/heads/main/assets/waifu.gif"/>
 
 <!--START_SECTION:waka-->
 
