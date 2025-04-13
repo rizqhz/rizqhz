@@ -20,6 +20,8 @@ _I am a Computer Engineering student with a strong interest in studying and unde
 
 **`--- ◇◆◇ ---`**
 
+.
+
 </div>
 
 <!--START_SECTION:waka-->
