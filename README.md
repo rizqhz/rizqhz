@@ -134,6 +134,7 @@ endsolid exported
 
 <img alt="" align="left" width="120" src="https://raw.githubusercontent.com/rizqhz/rizqhz/refs/heads/main/assets/waifu.gif"/>
 
+<div align="left">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -145,5 +146,6 @@ Other      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+</div>
 
 </div>
