@@ -13,28 +13,27 @@
 	/>
 </picture>
 
+<h1>
+  <a href="">
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/rizqhz/rizqhz?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
+</h1>
+
 <div align="center">
 
-### **`--- O V E R V I E W ---`**
+### <samp>O V E R V I E W</samp>
+
 _I am a Computer Engineering student with a strong interest in studying and understanding the mechanisms of the computer universe through a mathematical approach, particularly in the application of mathematics to algorithm analysis—such as calculating the complexity of an algorithm and exploring algorithmic strategies to solve specific problems._
 
-### **`--- ◇◆◇ ---`**
-
-.
+### <samp>◇ ◆ ◇</samp>
 
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-Markdown   1 hr 33 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.93 %
-Go         1 hr 30 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.11 %
-JSON       2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.39 %
-Text       0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.41 %
-Other      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.15 %
-```
-
-<!--END_SECTION:waka-->
+<h1>
+  <a href="">
+    <img alt="" align="left" src="https://img.shields.io/github/commit-activity/m/rizqhz/rizqhz/main?style=flat-square&label=&color=000000&logo=gitbook&logoColor=white&labelColor=000000"/>
+  </a>
+</h1>
 
 ```stl
 solid exported
@@ -124,3 +123,19 @@ solid exported
 	endfacet
 endsolid exported
 ```
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+```txt
+Markdown   1 hr 33 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.93 %
+Go         1 hr 30 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.11 %
+JSON       2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.39 %
+Text       0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.41 %
+Other      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.15 %
+```
+
+<!--END_SECTION:waka-->
+
+</div>
