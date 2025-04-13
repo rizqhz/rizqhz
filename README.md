@@ -18,7 +18,7 @@
 ### **`--- O V E R V I E W ---`**
 _I am a Computer Engineering student with a strong interest in studying and understanding the mechanisms of the computer universe through a mathematical approach, particularly in the application of mathematics to algorithm analysis—such as calculating the complexity of an algorithm and exploring algorithmic strategies to solve specific problems._
 
-**`--- ◇◆◇ ---`**
+### **`--- ◇◆◇ ---`**
 
 .
 
