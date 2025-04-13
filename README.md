@@ -131,7 +131,7 @@ endsolid exported
 
 <samp>• • •</samp>
 
-<img alt="" align="right" width="128" src="https://raw.githubusercontent.com/rizqhz/rizqhz/refs/heads/main/assets/waifu.gif"/>
+<img alt="" align="right" width="120" src="https://raw.githubusercontent.com/rizqhz/rizqhz/refs/heads/main/assets/waifu.gif"/>
 
 <!--START_SECTION:waka-->
 
