@@ -23,17 +23,19 @@
 
 ### <samp>O V E R V I E W</samp>
 
-**_I am a Computer Engineering student with a strong interest in studying and understanding the mechanisms of the computer universe through a mathematical approach, particularly in the application of mathematics to algorithm analysis—such as calculating the complexity of an algorithm and exploring algorithmic strategies to solve specific problems._**
-
-### <samp>◇ ◆ ◇</samp>
+_I am a Computer Engineering student with a strong interest in studying and understanding the mechanisms of the computer universe through a mathematical approach, particularly in the application of mathematics to algorithm analysis—such as calculating the complexity of an algorithm and exploring algorithmic strategies to solve specific problems._
 
 </div>
 
 <h1>
   <a href="">
-    <img alt="" align="left" src="https://img.shields.io/github/commit-activity/m/rizqhz/rizqhz/main?style=flat-square&label=&color=000000&logo=gitbook&logoColor=white&labelColor=000000"/>
+    <img alt="" align="left" src="https://img.shields.io/github/commit-activity/t/rizqhz/rizqhz/main?style=flat-square&label=&color=000000&logo=gitbook&logoColor=white&labelColor=000000"/>
   </a>
 </h1>
+
+<div align="center">
+  <samp>• • •</samp>
+</div>
 
 ```stl
 solid exported
@@ -125,6 +127,8 @@ endsolid exported
 ```
 
 <div align="center">
+
+<samp>• • •</samp>
 
 <!--START_SECTION:waka-->
 
