@@ -15,7 +15,7 @@
 
 <h1>
   <a href="">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/rizqhz/rizqhz?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
+    <img alt="" align="right" src="https://img.shields.io/badge/Repos-10-000000?style=flat-square&label=&logo=github&logoColor=white&labelColor=000000"/>
   </a>
 </h1>
 
